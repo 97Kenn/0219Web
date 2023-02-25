@@ -5,7 +5,7 @@
 ## 專案簡介
 專案的主題是一個線上家具出租網站，旨在透過網站建立會員功能區塊與構築購物車系統學習JavaWeb前端與後端的技術，將所學以網站方式呈現。
 - #### 使用到的技術包含:
-JAVA17、J2EE、JSP頁面、透過phpMyAdmin的方式管理MySQL資料庫、透過Xampp架設HTTP伺服器Apache、由於有使用到JAVA的JSP技術因此需另外安裝Tomcat9.0。
+JAVA17、J2EE、JSP頁面、透過phpMyAdmin的方式管理MySQL資料庫、透過Xampp架設網頁伺服器Apache、由於有使用到JAVA的JSP技術因此需另外安裝Tomcat9.0。
 - #### 網站外觀與功能技術的應用:
 HTML5、CSS3、JavaScript與Bootstrap5框架。
 - #### 開發環境:
