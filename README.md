@@ -19,7 +19,7 @@ Eclipse-EE 2022-09、Visual Studio Code、XAMPP Control Panelv3.3.0 、資料庫
 3. 確認Xampp中的Apache伺服器與MySQL能正常啟動。
 4. 打開Eclipse-EE並導入此專題，且確認以下兩個路徑都有導入MySQLconnectorJAR包 </br>
 (1). Webcontent -> WEB-INF -> lib資料夾 </br>
-(2). 專案資料夾jdbctest右鍵Build Path -> Libraries -> Classpath導入MySQLconnectorJAR包
+(2). 專案資料夾jdbctest右鍵Build Path -> Libraries -> Classpath導入MySQLconnectorJAR包</br>
 (3). 此專案已將MySQLconnectorJAR包導入完成，只需要檢查即可，若JAR包遺失則照上述步驟導入。
 5. 點擊Eclipse-EE界面下方Servers運行Tomcat9。
 6. 透過Eclipse-EE左上角直接執行專案，或直接至瀏覽器輸入此網址: localhost:8000/jdbctest/index.html。
